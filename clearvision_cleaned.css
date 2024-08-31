@@ -6940,8 +6940,8 @@ code {
     border: 1px solid var(--main-color)
 }
 
+/* THIS IS THE MAIN FRAME (once you click on it) */
 .shop_e77fa3 {
-    display: none;
     background-color: rgba(0, 0, 0, 0)
 }
 
@@ -6975,6 +6975,7 @@ code {
 
 .shopCard_b37971,
 .shopCard_c23530 {
+    display: none;
     background-color: rgba(0, 0, 0, .4) !important;
     border-color: var(--main-color) !important
 }
