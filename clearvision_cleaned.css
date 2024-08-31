@@ -6975,12 +6975,14 @@ code {
 
 .shopCard_b37971,
 .shopCard_c23530 {
+    display: none;
     background-color: rgba(0, 0, 0, .4) !important;
     border-color: var(--main-color) !important
 }
 
 .shopCard_b37971:hover,
 .shopCard_c23530:hover {
+    display: none;
     background-color: rgba(0, 0, 0, .6) !important;
     border-color: var(--hover-color) !important
 }
@@ -10516,7 +10518,6 @@ code {
 }
 
 .shopPreviewContainer_aba31b {
-    display: none;
     background: rgba(0, 0, 0, 0);
     border: 2px solid var(--premium-tier-2-purple-for-gradients-2)
 }
