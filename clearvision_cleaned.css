@@ -6940,7 +6940,6 @@ code {
     border: 1px solid var(--main-color)
 }
 
-/* THIS IS THE MAIN FRAME (once you click on it) */
 .shop_e77fa3 {
     background-color: rgba(0, 0, 0, 0)
 }
@@ -6971,6 +6970,11 @@ code {
 .cardDescription_b0ceed,
 .cardSummary_b0ceed {
     background-color: rgba(255, 255, 255, .07)
+}
+
+.private-channels-uid_18___shop
+{
+    display: none;
 }
 
 .shopCard_b37971,
